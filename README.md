@@ -1,5 +1,3 @@
-<p [align="center">
-
-<img width="2048" height="1853" alt="1000010438" src="https://github.com/user-attachments/assets/4489bdc6-6c30-428b-956c-75773ef4ff21" />
-
-<p [align="center"> <img width="548" height="548" alt="1000010455" src="https://github.com/user-attachments/assets/53414482-b593-4e6a-8004-1632118f04bf" />
+<p [align="center"> <img width="2048" height="1853" alt="1000010456" src="https://github.com/user-attachments/assets/0b458d67-8dc5-4e02-a9b3-b6c3e9c6bacb" />
+<p [align="center"> Hello! This is zvezda >< I‘m always around anywhere the area with any skin but you’ll recognized me with my github user! Feel free to cuds with my anytime, especially when there’s c+h on my name, i don’t mind! especially when I’m busy and always offtab/afk. I might not interact the most, because I’m actually pretty awkward but shameless around my friends lol.. Do sign my ata too!
+<p [align="center"> <img width="448" height="448" alt="1000010455" src="https://github.com/user-attachments/assets/53414482-b593-4e6a-8004-1632118f04bf" />
