@@ -1,5 +1,3 @@
-<p align="center"> 
+<p [align="center">
 
-<img width="2736" height="242" alt="Image" src="https://github.com/user-attachments/assets/1f90daca-b204-4853-ae18-0b3cc3635383" />
-
-This is all for now for today because i got lazy
+<img width="2048" height="1853" alt="1000010438" src="https://github.com/user-attachments/assets/4489bdc6-6c30-428b-956c-75773ef4ff21" />
